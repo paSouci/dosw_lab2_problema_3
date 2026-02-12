@@ -1,4 +1,4 @@
-# DOSW Lab 2 - Retos 1 y 2
+# DOSW Lab 2 - Reto 3
 
 ## Integrantes
 - Gina Sofia Garcia Zapata
