@@ -31,3 +31,4 @@ cada una modifica los atributos para cumplir con los requisitos
 ![estructura](imagenes/tree.png)
 ![compilacion](imagenes/compilation.png)
 ![ejemplo](imagenes/example.png)
+![test](imagenes/tests.png)
